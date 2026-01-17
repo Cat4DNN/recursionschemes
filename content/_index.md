@@ -9,7 +9,7 @@ url = "/schemes/foundations/introduction/"
 url_button = "Begin Learning"
 repo_version = "Complete Edition"
 repo_license = "Open Source"
-repo_url = "https://github.com/Cat4DNN/recursion-schemes"
+repo_url = "https://github.com/Cat4DNN/recursionschemes"
 author = "Serge Youmbi"
 
 # Menu items

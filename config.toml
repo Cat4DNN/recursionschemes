@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://cat4dnn.github.io/recursion-schemes"
+base_url = "https://cat4dnn.github.io/recursionschemes"
 title = "The Recursion Schemes Compendium"
 description = "A comprehensive guide to recursion schemes in functional programming - from catamorphisms to chronomorphisms, with Haskell implementations and categorical foundations."
 
@@ -64,7 +64,7 @@ timezone = "UTC"
 
 # Edit page on repository or not
 edit_page = false
-docs_repo = "https://github.com/Cat4DNN/recursion-schemes"
+docs_repo = "https://github.com/Cat4DNN/recursionschemes"
 repo_branch = "main"
 
 ## Math settings
@@ -76,7 +76,7 @@ library = "katex"
 [extra.open]
 enable = true
 # this image will be used as fallback if a page has no image of its own
-image = "recursion-schemes-og.png"
+image = "recursionschemes-og.png"
 twitter_site = "CatDNN"
 twitter_creator = "CatDNN"
 facebook_author = ""

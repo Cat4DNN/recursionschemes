@@ -170,8 +170,8 @@ Expr            → ExprF r   = LitF Int | AddF r r
 
 Found an error or want to contribute? This compendium is open to improvements!
 
-- [Report an Issue](https://github.com/cat4dnn/recursion-schemes/issues)
-- [Suggest Content](https://github.com/cat4dnn/recursion-schemes/discussions)
+- [Report an Issue](https://github.com/cat4dnn/recursionschemes/issues)
+- [Suggest Content](https://github.com/cat4dnn/recursionschemes/discussions)
 
 ---
 
